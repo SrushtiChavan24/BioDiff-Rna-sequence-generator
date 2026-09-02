@@ -1,6 +1,4 @@
 
-# BioDiff-Rna-sequence-generator
-
 # RNA Genomics Intelligence Platform
 
 A full-stack RNA analytics system for sequence profiling, secondary structure prediction, molecular similarity analysis, and ranked therapeutic candidate generation.
