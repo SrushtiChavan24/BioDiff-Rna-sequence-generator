@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BioDiff-Rna-sequence-generator
 =======
 # RNA Genomics Intelligence Platform
