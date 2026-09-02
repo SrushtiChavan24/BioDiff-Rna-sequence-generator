@@ -202,7 +202,3 @@ npm run dev
 4. Validate the model with real RNA datasets or synthetic test cases.
 
 ---
-
-## License
-
-Include your preferred license here or add one when the project is ready for sharing.
